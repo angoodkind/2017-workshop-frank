@@ -1,3 +1,5 @@
+[Note: The Rmd file was updated to include dependencies, and allow it to be knitted into a jupyter-style notebook that can be interactively viewed in a browser.]
+
 # Reproducible analysis of bigger, naturally-occurring datasets using R, Rmarkdown, and the tidyverse
 
 ## Abstract
